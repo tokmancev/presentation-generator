@@ -2,6 +2,9 @@
   "name": "shalom",
   "version": "1.0.0",
   "description": "to deploy on heroku of simple application",
+  "engines": {
+    "node": "12.0.2"
+  },
   "main": "presentation.js",
   "scripts": {
     "start": "node presentation.js",
