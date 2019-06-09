@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "to deploy on heroku of simple application",
   "engines": {
-    "node": "12.0.2"
+    "node": "6.11.1"
   },
   "main": "presentation.js",
   "scripts": {
