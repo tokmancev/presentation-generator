@@ -1,9 +1,10 @@
 {
   "name": "shalom",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "to deploy on heroku of simple application",
+  "main": "presentation.js",
   "scripts": {
+    "start": "node presentation.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
