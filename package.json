@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "to deploy on heroku of simple application",
   "engines": {
-    "node": "6.11.1"
+    "node": "12.4.0"
   },
   "main": "presentation.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "express-validator": "^5.3.0",
     "jquery": "^3.4.1",
     "multer": "^1.4.1",
+    "moment": "^2.24.0",
     "passport": "^0.4.0",
     "passport-http": "^0.3.0",
     "passport-local": "^1.0.0",
